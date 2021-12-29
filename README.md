@@ -1,4 +1,4 @@
-# Destinado a cdigos para Segurança Ofensiva <h2>
+# Destinado a códigos para Segurança Ofensiva <h2>
 
 **Arquivo: Shell.php**
 
@@ -16,3 +16,4 @@
         * Diante disso, pode-se navegar e realizar diversas alterações no servidor como criar pastas com mkdir, ler arquivos com o cat e criar arquivos.
 
 **CÓDIGO TESTE, NÃO ME RESPONSABILIZO POR QUAISQUER PESSOA MAL INTENCIONADA QUE UTILIZE OS CODIGOS AQUI MENCIONADOS PARA PRATICAR ATIVIDADES FORA DA LEI**
+ 
