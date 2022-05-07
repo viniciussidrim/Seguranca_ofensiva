@@ -1,4 +1,4 @@
-# Destinado a códigos para Segurança Ofensiva <h2>
+# Destinado a Scripts para Segurança Ofensiva <h2>
 
 **Arquivo: Shell.php**
 
